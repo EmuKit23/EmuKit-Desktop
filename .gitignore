@@ -1,0 +1,4 @@
+
+*.pyc
+src/settings.json
+settings.json
